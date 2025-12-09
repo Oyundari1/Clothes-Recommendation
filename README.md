@@ -1,2 +1,2 @@
 # Clothes-Recommendation
-This Clothes-Recommendation AI will recommend clothes based on the clothes in your wardrobe.
+This AI system will recommend clothes (by temperature, color, style (casual, formal, ceremnoial) based on your wardrobe's clothes.
